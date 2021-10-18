@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3996169cac6578944ad7416c86e58378
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - level: {instanceID: 0}
+  - gameOver: {instanceID: 0}
+  - remainingText: {instanceID: 0}
+  - remainingSubText: {instanceID: 0}
+  - targetText: {instanceID: 0}
+  - targetSubtext: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  - winClip: {fileID: 8300000, guid: 92f3ffc71ff43c848b3349a34fb47d85, type: 3}
+  - loseClip: {fileID: 8300000, guid: 13f2069b8f2df464c8a0c1b7ec3fdf62, type: 3}
+  - matchClip: {fileID: 8300000, guid: e41fe62ee6abd004b834d2f2fbae4f87, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
